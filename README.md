@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I have completed my degree in software development and management engineering.\
-✍️ &nbsp;In my spare time I dedicate my time to graphic design and the creation of user interfaces.
+✍️ &nbsp;In my spare time I dedicate to graphic design and the creation of user interfaces.
 
 
  🛠 &nbsp;Tech Stack
